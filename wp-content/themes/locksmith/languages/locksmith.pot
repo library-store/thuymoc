@@ -1,0 +1,1430 @@
+# LANGUAGE FILE FOR LOCKSMITH THEME.
+# Copyright (C) 2017 Webdevia
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR mimoun@webdevia.com, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Locksmith theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-25 13:17+0100\n"
+"PO-Revision-Date: 2017-09-25 13:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: comments.php:19
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:47
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:57
+msgid "No Responses to"
+msgstr ""
+
+#: comments.php:57
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:57
+msgid "% Responses to"
+msgstr ""
+
+#: comments.php:67
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:84 woocommerce/_single-product-reviews.php:58
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:111
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:111
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:114 woocommerce/_single-product-reviews.php:62
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: comments.php:117
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:120
+msgid "Sitweb"
+msgstr ""
+
+#: comments.php:125
+msgid "Comment"
+msgstr ""
+
+#: content-link.php:6
+msgid "Home"
+msgstr ""
+
+#: content.php:21 single.php:20
+msgid "By:"
+msgstr ""
+
+#: content.php:28 single.php:27
+msgid "Category:"
+msgstr ""
+
+#: content.php:31 single.php:30
+msgid " Comments"
+msgstr ""
+
+#: functions.php:57
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:74
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:82
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:89
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "Appears on the shop page of your website."
+msgstr ""
+
+#: functions.php:104
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:109
+msgid "Menus Settings"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer"
+msgstr ""
+
+#: inc/mega-menu.php:135
+msgid "display icone"
+msgstr ""
+
+#: inc/mega-menu.php:146
+msgid "Mega Menu (Background image)"
+msgstr ""
+
+#: inc/mega-menu.php:157
+msgid "Mega Menu (classic)"
+msgstr ""
+
+#: inc/panel.php:211
+msgid "Colors Setting"
+msgstr ""
+
+#: inc/panel.php:212
+msgid "General Settings"
+msgstr ""
+
+#: inc/panel.php:213
+msgid "Social Icons"
+msgstr ""
+
+#: inc/panel.php:214
+msgid "Fonts Settings"
+msgstr ""
+
+#: inc/panel.php:215
+msgid "Custom css & js"
+msgstr ""
+
+#: inc/panel.php:216
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/panel.php:218
+msgid "Demos Importer"
+msgstr ""
+
+#: inc/panel.php:228
+msgid "Primary Color:"
+msgstr ""
+
+#: inc/panel.php:237
+msgid "Secondary Color:"
+msgstr ""
+
+#: inc/panel.php:246
+msgid "Navigation background Color:"
+msgstr ""
+
+#: inc/panel.php:254
+msgid "Menu Color:"
+msgstr ""
+
+#: inc/panel.php:262
+msgid "Menu Active/Hover Color:"
+msgstr ""
+
+#: inc/panel.php:271
+msgid "Navigation (sticky) background color"
+msgstr ""
+
+#: inc/panel.php:280
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: inc/panel.php:289
+msgid "Sticky Active/Hover Color"
+msgstr ""
+
+#: inc/panel.php:307
+msgid "Logo link"
+msgstr ""
+
+#: inc/panel.php:315 inc/panel.php:335 inc/panel.php:843
+msgid "Upload"
+msgstr ""
+
+#: inc/panel.php:327
+msgid "Background Title Bar for Single Post"
+msgstr ""
+
+#: inc/panel.php:345
+msgid "Google Maps Key"
+msgstr ""
+
+#: inc/panel.php:370
+msgid "Show Adress Bar"
+msgstr ""
+
+#: inc/panel.php:381
+msgid "facebook"
+msgstr ""
+
+#: inc/panel.php:382
+msgid "Your Facebook page link"
+msgstr ""
+
+#: inc/panel.php:386
+msgid "Twitter"
+msgstr ""
+
+#: inc/panel.php:387
+msgid "Your Twitter page link"
+msgstr ""
+
+#: inc/panel.php:391
+msgid "Google +"
+msgstr ""
+
+#: inc/panel.php:392
+msgid "Your Google-plus page link"
+msgstr ""
+
+#: inc/panel.php:396
+msgid "Phone Number"
+msgstr ""
+
+#: inc/panel.php:397
+msgid "Your Phone Number"
+msgstr ""
+
+#: inc/panel.php:409
+msgid "Main text font"
+msgstr ""
+
+#: inc/panel.php:440
+msgid "Font family :"
+msgstr ""
+
+#: inc/panel.php:444 inc/panel.php:504 inc/panel.php:567 inc/panel.php:668
+#: inc/panel.php:729 inc/vcomposer/vc_elements/wd-headings.php:145
+#: inc/vcomposer/vc_elements/wd-headings.php:179
+#: inc/vcomposer/vc_elements/wd-headings.php:230
+#: inc/vcomposer/vc_elements/wd-headings.php:264
+msgid "Default"
+msgstr ""
+
+#: inc/panel.php:455
+msgid "Font weight and style :"
+msgstr ""
+
+#: inc/panel.php:461
+msgid "Normal 400"
+msgstr ""
+
+#: inc/panel.php:464
+msgid "Light 300"
+msgstr ""
+
+#: inc/panel.php:467
+msgid "Semi-bold 600"
+msgstr ""
+
+#: inc/panel.php:470
+msgid "Bold 700"
+msgstr ""
+
+#: inc/panel.php:473
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/panel.php:479 inc/panel.php:604 inc/panel.php:705
+#: inc/vcomposer/vc_elements/wd-headings.php:176
+#: inc/vcomposer/vc_elements/wd-headings.php:261
+msgid "Text Transform"
+msgstr ""
+
+#: inc/panel.php:485 inc/vcomposer/vc_elements/wd-headings.php:133
+#: inc/vcomposer/vc_elements/wd-headings.php:218
+msgid "Normal"
+msgstr ""
+
+#: inc/panel.php:488
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/panel.php:491
+msgid "lowercase"
+msgstr ""
+
+#: inc/panel.php:497 inc/panel.php:723
+msgid "Font size"
+msgstr ""
+
+#: inc/panel.php:515 inc/panel.php:740
+msgid "Font subsets"
+msgstr ""
+
+#: inc/panel.php:556
+msgid "Heads(h1,h2,h3..) font family"
+msgstr ""
+
+#: inc/panel.php:563 inc/panel.php:664
+msgid "Font family"
+msgstr ""
+
+#: inc/panel.php:580 inc/panel.php:681
+msgid "Font weight and style"
+msgstr ""
+
+#: inc/panel.php:622
+msgid "Font subsets "
+msgstr ""
+
+#: inc/panel.php:657
+msgid "Navigation font family"
+msgstr ""
+
+#: inc/panel.php:788
+msgid "Custom css"
+msgstr ""
+
+#: inc/panel.php:791
+msgid "Put your style here"
+msgstr ""
+
+#: inc/panel.php:796
+msgid "Custom JavaScript"
+msgstr ""
+
+#: inc/panel.php:800
+msgid "Put your JavaScript here"
+msgstr ""
+
+#: inc/panel.php:812
+msgid "Footer columns"
+msgstr ""
+
+#: inc/panel.php:835
+msgid "Footer Background"
+msgstr ""
+
+#: inc/panel.php:854 inc/panel.php:860
+msgid "Footer Copyright text"
+msgstr ""
+
+#: inc/panel.php:878
+msgid "Select demo to import"
+msgstr ""
+
+#: inc/panel.php:893
+msgid "Import Type"
+msgstr ""
+
+#: inc/panel.php:895
+msgid "Please Select"
+msgstr ""
+
+#: inc/panel.php:896
+msgid "All"
+msgstr ""
+
+#: inc/panel.php:897
+msgid "Content"
+msgstr ""
+
+#: inc/panel.php:898
+msgid "Widgets"
+msgstr ""
+
+#: inc/panel.php:899
+msgid "Options"
+msgstr ""
+
+#: inc/panel.php:900
+msgid "Menus"
+msgstr ""
+
+#: inc/panel.php:908
+msgid "Do you want to import media files?"
+msgstr ""
+
+#: inc/panel.php:916
+msgid "Do you want to delete all existing menus?"
+msgstr ""
+
+#: inc/panel.php:925
+msgid "Import"
+msgstr ""
+
+#: inc/panel.php:971
+msgid "Update Options"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:912
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2618
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1019
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3594
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3594
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/plugins.php:88
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:89
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/plugins.php:91
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/plugins.php:102
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/plugins.php:103
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/plugins.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/vcomposer/extend.php:9
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/vcomposer/extend.php:13
+msgid "No"
+msgstr ""
+
+#: inc/vcomposer/extend.php:14
+msgid "Bounce In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:15
+msgid "Bounce In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:16
+msgid "Bounce In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:17
+msgid "Bounce In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:18
+msgid "Bounce In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:19
+msgid "Fade In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:20
+msgid "Fade In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:21
+msgid "Fade In Down Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:22
+msgid "Fade In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:23
+msgid "Fade In Left Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:24
+msgid "Fade In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:25
+msgid "Fade In Right Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:26
+msgid "Fade In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:27
+msgid "Fade In Up Big"
+msgstr ""
+
+#: inc/vcomposer/extend.php:28
+msgid "Flip"
+msgstr ""
+
+#: inc/vcomposer/extend.php:29
+msgid "Flip In X"
+msgstr ""
+
+#: inc/vcomposer/extend.php:30
+msgid "Flip In Y"
+msgstr ""
+
+#: inc/vcomposer/extend.php:31
+msgid "Flip Out X"
+msgstr ""
+
+#: inc/vcomposer/extend.php:32
+msgid "Flip Out Y"
+msgstr ""
+
+#: inc/vcomposer/extend.php:33
+msgid "Light Speed In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:34
+msgid "Light Speed Out"
+msgstr ""
+
+#: inc/vcomposer/extend.php:35
+msgid "Rotate In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:36
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:37
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:38
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:39
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:40
+msgid "Slide In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:41
+msgid "Slide In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:42
+msgid "Slide In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:43
+msgid "Slide In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:44
+msgid "Zoom In "
+msgstr ""
+
+#: inc/vcomposer/extend.php:45
+msgid "Zoom In Down"
+msgstr ""
+
+#: inc/vcomposer/extend.php:46
+msgid "Zoom In Left"
+msgstr ""
+
+#: inc/vcomposer/extend.php:47
+msgid "Zoom In Right"
+msgstr ""
+
+#: inc/vcomposer/extend.php:48
+msgid "Zoom In Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:49
+msgid "Roll In"
+msgstr ""
+
+#: inc/vcomposer/extend.php:51
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: inc/vcomposer/extend.php:72
+msgid "Text Color"
+msgstr ""
+
+#: inc/vcomposer/extend.php:74
+msgid "Select font color"
+msgstr ""
+
+#: inc/vcomposer/extend.php:131
+msgid "locksmith_last_post"
+msgstr ""
+
+#: inc/vcomposer/extend.php:133 inc/vcomposer/extend.php:159
+#: inc/vcomposer/extend.php:200 inc/vcomposer/extend.php:252
+#: inc/vcomposer/extend.php:297 inc/vcomposer/extend.php:362
+#: inc/vcomposer/extend.php:382 inc/vcomposer/extend.php:406
+#: inc/vcomposer/extend.php:436 inc/vcomposer/extend.php:487
+#: inc/vcomposer/extend.php:507 inc/vcomposer/extend.php:577
+#: inc/vcomposer/vc_elements/vc-gallery.php:8
+#: inc/vcomposer/vc_elements/wd-headings.php:9
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:7
+msgid "Webdevia"
+msgstr ""
+
+#: inc/vcomposer/extend.php:141 inc/vcomposer/extend.php:146
+#: inc/vcomposer/extend.php:258 inc/vcomposer/extend.php:303
+#: inc/vcomposer/extend.php:412 inc/vcomposer/extend.php:442
+#: inc/vcomposer/extend.php:584 inc/vcomposer/vc_elements/wd-headings.php:13
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:15
+msgid "Title"
+msgstr ""
+
+#: inc/vcomposer/extend.php:157
+msgid "Recent From Blog"
+msgstr ""
+
+#: inc/vcomposer/extend.php:165 inc/vcomposer/extend.php:231
+msgid "Items to display"
+msgstr ""
+
+#: inc/vcomposer/extend.php:170 inc/vcomposer/extend.php:206
+#: inc/vcomposer/extend.php:514
+msgid "Columns To Display in mobile"
+msgstr ""
+
+#: inc/vcomposer/extend.php:175 inc/vcomposer/extend.php:212
+#: inc/vcomposer/extend.php:520
+msgid "Columns To Display in tablet"
+msgstr ""
+
+#: inc/vcomposer/extend.php:180 inc/vcomposer/extend.php:218
+#: inc/vcomposer/extend.php:526
+msgid "Columns To Display in desktop"
+msgstr ""
+
+#: inc/vcomposer/extend.php:185
+msgid "Display thumbnail"
+msgstr ""
+
+#: inc/vcomposer/extend.php:188 inc/vcomposer/extend.php:315
+#: inc/vcomposer/extend.php:464 inc/vcomposer/extend.php:540
+#: inc/vcomposer/extend.php:547
+msgid "Yes, please"
+msgstr ""
+
+#: inc/vcomposer/extend.php:198
+msgid "Portfolio"
+msgstr ""
+
+#: inc/vcomposer/extend.php:208 inc/vcomposer/extend.php:214
+#: inc/vcomposer/extend.php:220 inc/vcomposer/extend.php:516
+#: inc/vcomposer/extend.php:522 inc/vcomposer/extend.php:528
+msgid "Used in Grid Layout"
+msgstr ""
+
+#: inc/vcomposer/extend.php:225
+msgid "Categories"
+msgstr ""
+
+#: inc/vcomposer/extend.php:233
+msgid "Used in Carousel Layout"
+msgstr ""
+
+#: inc/vcomposer/extend.php:237 inc/vcomposer/extend.php:273
+#: inc/vcomposer/extend.php:332 inc/vcomposer/extend.php:604
+#: inc/vcomposer/vc_elements/wd-headings.php:49
+msgid "Layout"
+msgstr ""
+
+#: inc/vcomposer/extend.php:250
+msgid "Image Box"
+msgstr ""
+
+#: inc/vcomposer/extend.php:263 inc/vcomposer/extend.php:308
+#: inc/vcomposer/extend.php:589
+msgid "Text"
+msgstr ""
+
+#: inc/vcomposer/extend.php:268 inc/vcomposer/extend.php:319
+#: inc/vcomposer/extend.php:468 inc/vcomposer/vc_elements/wd-headings.php:76
+msgid "Image"
+msgstr ""
+
+#: inc/vcomposer/extend.php:276
+msgid "Select the box style."
+msgstr ""
+
+#: inc/vcomposer/extend.php:281
+msgid "URL to :"
+msgstr ""
+
+#: inc/vcomposer/extend.php:286 inc/vcomposer/extend.php:350
+#: inc/vcomposer/extend.php:612 inc/vcomposer/wd_empty_spaces.php:26
+msgid "Extra Classes"
+msgstr ""
+
+#: inc/vcomposer/extend.php:295
+msgid "Text Block With Icon"
+msgstr ""
+
+#: inc/vcomposer/extend.php:313 inc/vcomposer/extend.php:462
+msgid "Display image instead of icon"
+msgstr ""
+
+#: inc/vcomposer/extend.php:324 inc/vcomposer/extend.php:473
+msgid "Icon"
+msgstr ""
+
+#: inc/vcomposer/extend.php:327 inc/vcomposer/extend.php:340
+#: inc/vcomposer/extend.php:476
+msgid "Select the icon to use."
+msgstr ""
+
+#: inc/vcomposer/extend.php:345
+msgid "Link URL"
+msgstr ""
+
+#: inc/vcomposer/extend.php:360
+msgid "Testimonial"
+msgstr ""
+
+#: inc/vcomposer/extend.php:370
+msgid "Maximum Number Of Items To Show"
+msgstr ""
+
+#: inc/vcomposer/extend.php:380
+msgid "Carousel Client"
+msgstr ""
+
+#: inc/vcomposer/extend.php:388
+msgid "Images"
+msgstr ""
+
+#: inc/vcomposer/extend.php:393
+msgid "Columns"
+msgstr ""
+
+#: inc/vcomposer/extend.php:404
+msgid "Wd Separator Title"
+msgstr ""
+
+#: inc/vcomposer/extend.php:416
+msgid "Subtitle"
+msgstr ""
+
+#: inc/vcomposer/extend.php:434
+msgid "Count Up"
+msgstr ""
+
+#: inc/vcomposer/extend.php:447
+msgid "Countto (number)"
+msgstr ""
+
+#: inc/vcomposer/extend.php:452
+msgid "time (in seconds, only number)"
+msgstr ""
+
+#: inc/vcomposer/extend.php:457
+msgid "Color"
+msgstr ""
+
+#: inc/vcomposer/extend.php:485
+msgid "Wd Slider"
+msgstr ""
+
+#: inc/vcomposer/extend.php:505
+msgid "Team"
+msgstr ""
+
+#: inc/vcomposer/extend.php:532
+msgid "Items Per Page"
+msgstr ""
+
+#: inc/vcomposer/extend.php:537
+msgid "Display column gutters"
+msgstr ""
+
+#: inc/vcomposer/extend.php:544
+msgid "Display team members description"
+msgstr ""
+
+#: inc/vcomposer/extend.php:575
+msgid "Wd Call To Action"
+msgstr ""
+
+#: inc/vcomposer/extend.php:594
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:54
+msgid "Button Text"
+msgstr ""
+
+#: inc/vcomposer/extend.php:599
+msgid "Button URL"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:6
+msgid "Headings"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:19
+msgid "Title Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:30
+msgid "subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:36
+msgid "Subtitle Tag"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:58
+msgid "Alignment"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:66
+msgid "Separator Type"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:81
+msgid "Separator Position"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:90
+msgid "Border Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:100
+msgid "Border Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:107
+msgid "Border Width"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:114
+msgid "Margin between Title and subtitle"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:123
+#: inc/vcomposer/vc_elements/wd-headings.php:209
+msgid "Font Family"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:130
+#: inc/vcomposer/vc_elements/wd-headings.php:215
+msgid "Font Style"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:134
+#: inc/vcomposer/vc_elements/wd-headings.php:219
+msgid "Italic"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:135
+#: inc/vcomposer/vc_elements/wd-headings.php:220
+msgid "Inherit"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:136
+#: inc/vcomposer/vc_elements/wd-headings.php:221
+msgid "Initial"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:142
+#: inc/vcomposer/vc_elements/wd-headings.php:227
+msgid "Font Weight"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:160
+#: inc/vcomposer/vc_elements/wd-headings.php:245
+msgid "Font Size"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:169
+#: inc/vcomposer/vc_elements/wd-headings.php:254
+msgid "Font Color"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:190
+#: inc/vcomposer/vc_elements/wd-headings.php:275
+msgid "Line Height"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:199
+#: inc/vcomposer/vc_elements/wd-headings.php:284
+msgid "Letter spacing"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd-headings.php:294
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:5
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:21
+msgid "Service Name & Price"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:38
+msgid "Service Name"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:40
+msgid "Enter Line text."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:45
+msgid "Service Price"
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:47
+msgid "Enter Price."
+msgstr ""
+
+#: inc/vcomposer/vc_elements/wd_pricing_table.php:60
+msgid "Button Link"
+msgstr ""
+
+#: inc/vcomposer/wd_empty_spaces.php:3
+msgid "Wd Empty Space"
+msgstr ""
+
+#: inc/vcomposer/wd_empty_spaces.php:11
+msgid "Height in Mobile"
+msgstr ""
+
+#: inc/vcomposer/wd_empty_spaces.php:16
+msgid "Height in Tablet"
+msgstr ""
+
+#: inc/vcomposer/wd_empty_spaces.php:21
+msgid "Height in Desktop"
+msgstr ""
+
+#: parts/header-1.php:10 parts/header-2.php:19
+msgid "Menu"
+msgstr ""
+
+#: parts/header-2.php:28
+msgid "Call us:"
+msgstr ""
+
+#: parts/titlebar.php:11
+msgid "Blog"
+msgstr ""
+
+#: parts/titlebar.php:14
+msgid "Our Latest Blog Posts"
+msgstr ""
+
+#: parts/titlebar.php:17 titlebar.php:14
+msgid "Search Result of"
+msgstr ""
+
+#: search.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: single.php:43
+msgid "Pages:"
+msgstr ""
+
+#: vc_templates/vc_cta_button.php:9
+msgid "Text on the button"
+msgstr ""
+
+#: vc_templates/vc_tab.php:40
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:74
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:74
+msgid "Next tab"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:23
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:44
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:57
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:57
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:67
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:73
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:74
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:75
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:76
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:77
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:78
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:79
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:83
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/_single-product-reviews.php:92
+#: woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/breadcrumb.php:100 woocommerce/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/breadcrumb.php:156
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/breadcrumb.php:211
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/breadcrumb.php:216
+msgid "Page"
+msgstr ""
+
+#: woocommerce/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart-shipping.php:72 woocommerce/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart-totals.php:21
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart-totals.php:75
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart.php:25
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart.php:26
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart.php:28
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart.php:45
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart.php:117
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart.php:117
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart.php:117
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart.php:124
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart.php:124
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/mini-cart.php:52
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/mini-cart.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/mini-cart.php:65
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/mini-cart.php:66
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:30
+#: woocommerce/wc-template-functions.php:1688
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:54
+#: woocommerce/wc-template-functions.php:1732
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:122
+msgid "New products"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:130
+#, php-format
+msgid "New products added to %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:138
+#, php-format
+msgid "New products tagged %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:396
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:415
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:418
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:669
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:670
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:671
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:672
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:673
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:674
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1018
+msgid "Description"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1027
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1036
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1127
+msgid ""
+"Use $args argument as an array instead. Deprecated argument will be removed "
+"in WC 2.2."
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1592
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1695
+msgid "Update country"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1890
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/wc-template-functions.php:1891
+msgid "Search for products"
+msgstr ""
